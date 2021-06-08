@@ -124,5 +124,3 @@ rhcp.to_excel(f'{cwd}\Shortlist2.xlsx')
 
 # Then I applied these adjustments manually in Excel.
 
-########### Purple Stain contains a refference to "Python power straight from Monty" #######
-# MAYBE DO SOMETHING ABOUT DING DONG DINGS and AYO?
